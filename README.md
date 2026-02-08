@@ -24,7 +24,7 @@ The decryption key for the next stage is the 4th word of the 3rd paragraph of th
 
 ### STEP_02
 You don't need to be a developer to understand the logic of my intent. I want you to solve my python code.
-> **CHALLENGE:** Solve the code snippet below to generate the Final Endpoint URL.
+> Solve to generate the Final Endpoint URL.
 
 ```python
 # Mission Secret Key Calculation
