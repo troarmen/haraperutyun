@@ -27,7 +27,6 @@ You don't need to be a developer to understand the logic of my intent. I want yo
 > Solve to generate the Final Endpoint URL.
 
 ```python
-# Mission Secret Key Calculation
 mission_id = "ANNA"
 days_together = 203  
 first_kiss_day = # here you fill with just the day
