@@ -28,12 +28,14 @@ You don't need to be a developer to understand the logic of my intent. I want yo
 
 ```python
 # Mission Secret Key Calculation
-days_together = 203  
-anniversary_month = 6 
 mission_id = "ANNA"
+days_together = 203  
+first_kiss_day = # here you fill with just the day
+secret_key = # here you fill with the secret key from the news
 
-def get_final_code(days_together, anniversary_month):
-    logic_key = (days * month) + 2026
-    return f"bit.ly/{mission_id}-{logic_key}"
+
+def get_final_code(days_together, first_kiss_day, secret_key):
+    logic_key = (days_together * first_kiss_day) + 2026
+    return f"bit.ly/{mission_id}-{secret_key}-{logic_key}"
 
 # Result: bit.ly/...?
