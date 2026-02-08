@@ -38,6 +38,7 @@ def get_final_code(days_together, first_kiss_day, secret_key):
     return f"bit.ly/{mission_id}-{secret_key}-{logic_key}"
 
 # Result: bit.ly/...?
+```
 
 ### STEP_03
 Now that you have the URL. Just type it in your browser ))
