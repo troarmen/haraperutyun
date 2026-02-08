@@ -23,12 +23,6 @@ The decryption key for the next stage is the 4th word of the 3rd paragraph of th
 > **CHALLENGE:** Find the password for the next stage in the following link: [https://edition.cnn.com/2026/02/06/politics/us-china-nuclear-weapons]
 
 ### STEP_02
-A physical image carries the weight of 1000 words.
-> **CHALLENGE:** Inspect the Metadata (EXIF) of the image sent to your secure e-mail.
-> 
-> **HINT:** The "Comment" field contains your coordinates.
-
-### STEP_03
 You don't need to be a developer to understand the logic of my intent.
 > **CHALLENGE:** Solve the code snippet below to generate the Final Endpoint URL.
 
