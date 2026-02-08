@@ -39,6 +39,7 @@ def get_final_code(days_together, first_kiss_day, secret_key):
 
 # Result: bit.ly/...?
 ```
+If you type your result and the url doesn't exist, it means you got a wrong url.
 
 ### STEP_03
 Now that you have the URL. Just type it in your browser ))
