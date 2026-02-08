@@ -23,16 +23,16 @@ The decryption key for the next stage is the 4th word of the 3rd paragraph of th
 > **CHALLENGE:** Find the password for the next stage in the following link: [https://edition.cnn.com/2026/02/06/politics/us-china-nuclear-weapons]
 
 ### STEP_02
-You don't need to be a developer to understand the logic of my intent.
+You don't need to be a developer to understand the logic of my intent. I want you to solve my python code.
 > **CHALLENGE:** Solve the code snippet below to generate the Final Endpoint URL.
 
 ```python
 # Mission Secret Key Calculation
 days_together = 203  
-anniversary_month = 7 
+anniversary_month = 6 
 mission_id = "ANNA"
 
-def get_final_code(days, month):
+def get_final_code(days_together, anniversary_month):
     logic_key = (days * month) + 2026
     return f"bit.ly/{mission_id}-{logic_key}"
 
